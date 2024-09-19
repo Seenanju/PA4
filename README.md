@@ -49,12 +49,10 @@ _2.] Create a visualization that shows how the different features contributes to
 
 
 ## | Author
-_Magracia, Marc Reggie Sean S. | 2ECE-C_
+Raymundo, Johann Raphael L. | 2ECE-B
 
 ## | Version History
-* v1.2
-  * Corrected comments in the .ipynb file
 * v1.1
   * Updated README and uploaded supplementary files         
-* v1.0 (17 September 2024)
+* v1.0 (19 September 2024)
   * Created 
